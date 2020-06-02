@@ -1,0 +1,4 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable collapsible_headings/main
+
+# source: https://stackoverflow.com/questions/53568841/is-it-possible-to-use-jupyter-contrib-nbextensions-in-nbviewer
